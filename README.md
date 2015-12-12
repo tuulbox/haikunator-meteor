@@ -1,5 +1,7 @@
 # haikunator-meteor
 
+[![Build Status](https://travis-ci.org/tuulbox/haikunator-meteor.svg)](https://travis-ci.org/tuulbox/haikunator-meteor)
+
 Heavily forked from https://github.com/Atrox/haikunatorjs
 
 Generate Heroku-like random names to use in your node applications.
