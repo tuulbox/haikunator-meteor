@@ -25,7 +25,10 @@ let nouns = [
   "term", "credit", "art", "fashion", "truth", "disk", "math", "unit", "cell",
   "scene", "heart", "recipe", "union", "limit", "bread", "toast", "bonus",
   "lab", "mud", "mode", "poetry", "tooth", "hall", "king", "queen", "lion", "tiger",
-  "penguin", "kiwi", "cake", "mouse", "rice", "coke", "hola", "salad", "hat"
+  "penguin", "kiwi", "cake", "mouse", "rice", "coke", "hola", "salad", "hat", "earth",
+  "mercury", "venus", "mars", "jupiter", "uranus", "neptune", "saturn", "pluto",
+  "asteroid", "comet", "gravity", "nebula", "tachyon", "crater", "universe",
+  "eclipse", "galaxy", "matter", "mass", "nova", "orbit", "planet", "quasar",
 ];
 
 haikunate = function ({delimiter='-', tokenLength=4, tokenHex=false, tokenChars="0123456789"} = {}) {
