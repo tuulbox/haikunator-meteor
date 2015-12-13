@@ -4,13 +4,14 @@ let adjs = [
   "patient", "twilight", "dawn", "crimson", "wispy", "weathered", "blue",
   "billowing", "broken", "cold", "damp", "falling", "frosty", "green",
   "long", "late", "lingering", "bold", "little", "morning", "muddy", "old",
-  "red", "rough", "still", "small", "sparkling", "throbbing", "shy",
+  "red", "rough", "still", "small", "sparkling", "shy",
   "wandering", "withered", "wild", "black", "young", "holy", "solitary",
   "fragrant", "aged", "snowy", "proud", "floral", "restless", "divine",
   "polished", "ancient", "purple", "lively", "nameless", "lucky", "odd", "tiny",
   "free", "dry", "yellow", "orange", "gentle", "tight", "super", "royal", "broad",
-  "steep", "flat", "square", "round", "mute", "noisy", "hushy", "raspy", "soft",
-  "shrill", "rapid", "sweet", "curly", "calm", "jolly", "fancy", "plain", "shinny"
+  "steep", "flat", "square", "round", "mute", "noisy", "raspy", "soft",
+  "shrill", "rapid", "sweet", "curly", "calm", "jolly", "fancy", "plain", "shinny",
+  "elegant", "radiant", "classy", "superb", "splendid", "great",
 ];
 let nouns = [
   "waterfall", "river", "breeze", "moon", "rain", "wind", "sea", "morning",
@@ -25,10 +26,14 @@ let nouns = [
   "term", "credit", "art", "fashion", "truth", "disk", "math", "unit", "cell",
   "scene", "heart", "recipe", "union", "limit", "bread", "toast", "bonus",
   "lab", "mud", "mode", "poetry", "tooth", "hall", "king", "queen", "lion", "tiger",
-  "penguin", "kiwi", "cake", "mouse", "rice", "coke", "hola", "salad", "hat", "earth",
-  "mercury", "venus", "mars", "jupiter", "uranus", "neptune", "saturn", "pluto",
+  "penguin", "kiwi", "cake", "mouse", "rice", "salad", "hat", "earth",
+  "mercury", "venus", "mars", "jupiter", "neptune", "saturn", "pluto",
   "asteroid", "comet", "gravity", "nebula", "tachyon", "crater", "universe",
   "eclipse", "galaxy", "matter", "mass", "nova", "orbit", "planet", "quasar",
+  "cog", "spark", "rotor", "motor", "cylinder", "gyroscope", "capacitor", "servo", "bearing",
+  "bracket", "chain", "sprocket", "chassis", "gear", "tread", "track", "wheel", "sensor", "actuator",
+  "beach", "sunrise", "avalanche", "hail", "panda", "sushi", "quark", "meson", "boson", "quanta", "quantum",
+  "planck", "proton", "electron", "electron",
 ];
 
 haikunate = function ({delimiter='-', tokenLength=4, tokenHex=false, tokenChars="0123456789"} = {}) {
