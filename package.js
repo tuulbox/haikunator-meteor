@@ -1,6 +1,6 @@
 Package.describe({
   name: 'tuul:haikunator',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Generate heroku-like names',
   git: 'git@github.com:tuulbox/haikunator-meteor.git',
   documentation: 'README.md'
