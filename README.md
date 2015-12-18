@@ -4,7 +4,7 @@
 
 Heavily forked from https://github.com/Atrox/haikunatorjs
 
-Generate Heroku-like random names to use in your node applications.
+Generate Heroku-like random names to use in your node applications. This is haiku-inspired but not technically haiku. This is mostly for codename generation.
 
 Additions:
 
