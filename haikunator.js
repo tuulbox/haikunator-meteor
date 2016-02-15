@@ -2,15 +2,15 @@ let adjs = [
   "autumn", "hidden", "bitter", "misty", "silent", "empty", "dry", "dark",
   "summer", "icy", "delicate", "quiet", "white", "cool", "spring", "winter",
   "patient", "twilight", "dawn", "crimson", "wispy", "weathered", "blue",
-  "billowing", "broken", "cold", "damp", "falling", "frosty", "green",
+  "billowing", "broken", "cold", "falling", "frosty", "green",
   "long", "late", "lingering", "bold", "little", "morning", "muddy", "old",
   "red", "rough", "still", "small", "sparkling", "shy",
-  "wandering", "withered", "wild", "black", "young", "holy", "solitary",
+  "wandering", "withered", "wild", "black", "young", "solitary",
   "fragrant", "aged", "snowy", "proud", "floral", "restless", "divine",
   "polished", "ancient", "purple", "lively", "nameless", "lucky", "odd", "tiny",
   "free", "dry", "yellow", "orange", "gentle", "tight", "super", "royal", "broad",
   "steep", "flat", "square", "round", "mute", "noisy", "raspy", "soft",
-  "shrill", "rapid", "sweet", "curly", "calm", "jolly", "fancy", "plain", "shinny",
+  "shrill", "rapid", "sweet", "curly", "calm", "jolly", "fancy", "plain", "shiny",
   "elegant", "radiant", "classy", "superb", "splendid", "great",
 ];
 let nouns = [
